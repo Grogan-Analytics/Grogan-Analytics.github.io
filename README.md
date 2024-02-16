@@ -2,7 +2,7 @@
 
 ## About Us
 
-Hello! I'm **Sean Grogan**, the founder of **Grogan Analytics**. Our mission is to unravel complex data puzzles, extract meaningful insights, and empower decision-makers with actionable information. Whether you're navigating the intricate pathways of geospatial data, optimizing supply chains, or capturing the world through a photographer's lens, we've got you covered.
+Hello! I'm **Sean Grogan**, the founder of **Grogan Analytics**. Our mission is to unravel complex data puzzles, extract meaningful insights, and empower decision-makers with actionable information. Whether you're navigating the intricate pathways of geospatial data, optimizing supply chains, or capturing the world through a photographer's lens, we've got you covered. At **Grogan Analytics**, we thrive on the thrill of unraveling intricate data puzzles. Our team of passionate analysts, led by yours truly, is dedicated to extracting **meaningful insights** from the vast sea of information. Whether it's a tangle of geospatial coordinates or a complex supply chain network, we're here to make sense of it all.
 
 ## Meet Sean Grogan
 
@@ -31,3 +31,8 @@ Beyond the world of data, I wear multiple hats:
 - **LinkedIn**: Connect with me on [LinkedIn](https://www.linkedin.com/in/seangrogan/) to stay updated on our latest endeavors.
 
 Thank you for visiting Grogan Analytics! We're excited to embark on this data-driven journey with you. 🚀
+
+
+
+
+
